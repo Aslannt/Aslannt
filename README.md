@@ -12,14 +12,12 @@ Hello, I'm Deivid Vanegas!
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 Mulesoft Developer
+📚 B.Sc. in Computer Science, University of Dar es Salaam
+🛠️ Tech Stack: Mulesoft, Java, Spring Boot, Git, GitHub, Anypoint Studio, Postman
+🚀 Focus Areas: API Development, Security, Web & Application Development
+🌱 Passionate about scalable system design and software engineering best practices
+👨‍💻 Currently working at PesaLock, developing API solutions with Mulesoft
 </pre>
 <hr>
 
