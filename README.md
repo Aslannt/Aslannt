@@ -13,7 +13,7 @@ Hello, I'm Deivid Vanegas!
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <pre>
 💻 Mulesoft Developer
-📚 B.Sc. in Computer Science, University of Dar es Salaam
+📚 Eng in Computer Science, University 'San Mateo'
 🛠️ Tech Stack: Mulesoft, Java, Spring Boot, Git, GitHub, Anypoint Studio, Postman
 🚀 Focus Areas: API Development, Security, Web & Application Development
 🌱 Passionate about scalable system design and software engineering best practices
